@@ -55,9 +55,14 @@ Run the bootstrap script to set up the app dependencies:
 
 ### Run!
 
+Start with:
 ```
-foreman start 
-localhost/5000
+foreman start
+```
+
+Check this in your browser:
+```
+localhost:5000
 ```
 
 ### Sanity Check
