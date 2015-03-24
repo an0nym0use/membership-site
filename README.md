@@ -45,7 +45,10 @@ The basic features of the web site:
 
 ### Get Started
 
-Prerequisites: postgresql
+Prerequisites:
+* ruby 2.1.3
+* postgresql
+* phantomjs 1.8 (testing)
 
 Run the bootstrap script to set up the app dependencies:
 
